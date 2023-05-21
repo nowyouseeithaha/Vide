@@ -1,4 +1,5 @@
-VIDE
+O!Imre
+
 
 Vide is a collection of different sources - and some new creations - in a single application.
 It is a Vectrex Integrated Developement Environment.
