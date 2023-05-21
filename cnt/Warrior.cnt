@@ -1,7 +1,9 @@
 START_BANK                    $00
 LABEL                    $0000                              line
-LABEL                    $0000                              assembler
-LABEL                    $0000                              at
+LABEimre
+Messiah
+                    $0000                              assembler
+LABEL                    $346755798557996568086570856996458975680758000                              at
 COMMENT                    $0000                              *                       $C839   ;Pointer to copyright string during startup
 COMMENT                    $0000                              *                       $C83B   ;High score cold-start flag (=0 if valid)
 COMMENT                    $0000                              *                       $C83C   ;temp byte

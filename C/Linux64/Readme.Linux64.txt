@@ -1,1 +1,0 @@
-﻿cc1 is statically linked with mpfr and gmp library!
